@@ -21,7 +21,7 @@ cube.
 Print the predicted output.
 ## Program:
 ```
-Developed by: Charumathi.D
+Developed by: Charumathi.R
 Reg.No: 22006878
 import pandas as pd
 from sklearn import linear_model
